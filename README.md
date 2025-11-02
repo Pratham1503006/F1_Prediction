@@ -11,20 +11,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Demo](#demo)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Performance](#model-performance)
-- [API Documentation](#api-documentation)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -129,7 +115,6 @@ MLproject/
 │   ├── train_enhanced_model.py         # Model training
 │   ├── predict.py                      # Prediction utilities
 │   ├── fetch_data.py                   # Data collection
-│   ├── streamlit_app.py                # Streamlit interface
 │   ├── requirements.txt                # Python dependencies
 │   ├── data/
 │   │   └── f1_multi_year_results.csv   # Historical dataset
@@ -210,13 +195,6 @@ echo REACT_APP_API_URL=http://localhost:8000 > .env
 npm run build
 ```
 
-### Alternative Frontend (Streamlit)
-
-```bash
-# Already installed with backend dependencies
-# No additional setup required
-```
-
 ---
 
 ## 💻 Usage
@@ -241,15 +219,6 @@ npm start
 ```
 
 Application will open at: http://localhost:3000
-
-### Start Alternative Frontend (Streamlit)
-
-```bash
-cd backend
-streamlit run streamlit_app.py
-```
-
-Application will open at: http://localhost:8501
 
 ---
 
@@ -379,15 +348,7 @@ Full API documentation available at: http://localhost:8000/docs
 3. **Environment Variables:**
    - `REACT_APP_API_URL`: Your backend URL
 
-### Docker Deployment
 
-```bash
-# Build Docker image
-docker build -t f1-predictor-backend ./backend
-
-# Run container
-docker run -p 8000:8000 f1-predictor-backend
-```
 
 ---
 
@@ -401,11 +362,6 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-### Development Guidelines
-- Follow PEP 8 for Python code
-- Use TypeScript for React components
-- Add tests for new features
-- Update documentation
 
 ---
 
@@ -415,32 +371,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
 
-- **Ergast F1 API** for comprehensive historical F1 data
-- **Formula 1®** for inspiration and the incredible sport
-- **scikit-learn** community for excellent ML libraries
-- **FastAPI** and **React** teams for amazing frameworks
 
----
-
-## 📞 Contact
-
-**Project Repository:** [GitHub](https://github.com/yourusername/f1-predictor)  
-**Report Issues:** [GitHub Issues](https://github.com/yourusername/f1-predictor/issues)  
-**Email:** your.email@example.com
-
----
-
-## 📚 Additional Resources
-
-- [Detailed Project Report](ML_Project_Report.md)
-- [API Documentation](http://localhost:8000/docs)
-- [Ergast F1 API](http://ergast.com/mrd/)
-- [Formula 1 Official Site](https://www.formula1.com/)
 
 ---
 
 **Made with ❤️ for F1 fans and ML enthusiasts**
 
-*Formula 1®, F1®, and related marks are trademarks of Formula One Licensing B.V. This project is for educational purposes only and is not affiliated with or endorsed by Formula One.*

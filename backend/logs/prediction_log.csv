@@ -1,0 +1,29 @@
+timestamp,circuit,weather,temperature,track_temp,num_entries,winner_prediction,winner_probability
+2025-09-28T19:05:29.919252,Baku City Circuit,Dry,25,30.81510740968633,20,Max Verstappen,26.15
+2025-09-28T19:05:56.125099,Baku City Circuit,Mixed,26,47.190951089903294,20,Max Verstappen,26.15
+2025-09-28T19:06:12.138929,Baku City Circuit,Wet,22,43.76947565119558,20,Max Verstappen,33.19
+2025-10-03T22:56:47.795794,Marina Bay Street Circuit,Mixed,30,47.17598988772151,20,Oscar Piastri,19.12
+2025-10-03T22:57:06.847440,Marina Bay Street Circuit,Dry,29,48.85591322359626,20,Oscar Piastri,19.13
+2025-10-03T22:57:31.888722,Marina Bay Street Circuit,Dry,29,36.39980900863169,20,Max Verstappen,19.46
+2025-10-25T01:38:05.721182,Bahrain International Circuit,Dry,35,54.41285213416825,0,N/A,0
+2025-10-26T23:24:20.084218,Bahrain International Circuit,Dry,30,47.02757429454881,1,Lando Norris,100.0
+2025-10-26T23:24:51.866295,Suzuka Circuit,Dry,17,38.692755950451904,1,Lando Norris,100.0
+2025-10-27T10:29:13.483239,Silverstone Circuit,Dry,19,42.05501876760414,1,Lewis Hamilton,100.0
+2025-10-27T10:29:15.889058,Silverstone Circuit,Dry,14,19.7047822140953,1,Lewis Hamilton,100.0
+2025-10-27T10:29:16.713204,Silverstone Circuit,Dry,22,39.20482686986125,1,Lewis Hamilton,100.0
+2025-10-27T10:30:15.789901,Silverstone Circuit,Mixed,12,17.367008436731602,20,Lewis Hamilton,22.11
+2025-10-28T21:05:15.489859,Monza Circuit,Dry,25,45.175523883131845,19,Max Verstappen,19.29
+2025-10-28T21:10:06.013764,Bahrain International Circuit,Dry,29,38.637749427112425,0,N/A,0
+2025-10-28T21:41:34.082472,Autódromo Hermanos Rodríguez,Dry,20,33.33105519224643,20,Lando Norris,21.32
+2025-10-28T21:41:37.477575,Autódromo Hermanos Rodríguez,Dry,24,42.64152711320188,20,Lando Norris,21.32
+2025-10-28T21:42:33.852364,Autódromo Hermanos Rodríguez,Mixed,21,32.65950207177723,20,Lando Norris,21.32
+2025-10-28T21:42:46.167180,Autódromo Hermanos Rodríguez,Wet,16,29.1888944572235,20,Lewis Hamilton,21.54
+2025-10-28T21:43:10.391336,Autódromo Hermanos Rodríguez,Dry,19,32.0199127549171,20,Lando Norris,21.32
+2025-10-28T21:43:24.204975,Circuit de Spa-Francorchamps,Dry,11,30.920399562841855,20,Lando Norris,21.32
+2025-10-28T21:43:41.037858,Interlagos,Dry,20,37.60724627558275,20,Lando Norris,21.32
+2025-10-28T21:44:02.167220,Losail International Circuit,Dry,25,30.8034304885014,20,Lando Norris,21.32
+2025-10-28T21:44:09.238457,Yas Marina Circuit,Dry,30,45.297325569033646,20,Lando Norris,21.32
+2025-10-28T21:44:29.490053,Monaco Circuit,Dry,27,37.21637059026219,20,Lando Norris,21.32
+2025-10-28T21:44:34.064634,Monaco Circuit,Mixed,20,34.25385203588155,20,Lando Norris,21.32
+2025-10-28T21:44:46.043515,Monaco Circuit,Mixed,18,24.51773176121356,20,Lando Norris,21.32
+2025-10-28T21:44:55.745753,Monaco Circuit,Dry,23,45.76066108693715,20,Charles Leclerc,19.58
